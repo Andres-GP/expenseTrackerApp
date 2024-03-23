@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bookStoreApp",
-    "slug": "bookStoreApp",
+    "name": "expensestracker",
+    "slug": "expensestracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
